@@ -2,6 +2,8 @@
 
 The SNP and gene datasets of M. Tuberculosis for drug resistance prediction.
 
+for understanding how to load and use this data please visit the [LRCN-drug-resistance](https://github.com/AmirHoseinSafari/LRCN-drug-resistance#loading_data-package) repository.
+
 ---
 
 ## Citation
